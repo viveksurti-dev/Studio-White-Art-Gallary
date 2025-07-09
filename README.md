@@ -54,8 +54,8 @@ Welcome to **Studio White** – an online platform to showcase, explore, and man
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/studiowhite.git
-cd studiowhite
+git clone https://github.com/viveksurti-dev/Studio-White-Art-Gallary.git
+cd Studio White Art Gallary
 ```
 
 ### 2. Setup Database
